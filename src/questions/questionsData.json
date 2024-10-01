@@ -1,6 +1,6 @@
 [
   {
-    "question": "1. Ngoài làm một hoạ sĩ, nhà phát minh, nhà khoa học và triết học, Leonardo Da Vinci còn làm nghề gì nữa?",
+    "question": "Ngoài làm một hoạ sĩ, nhà phát minh, nhà khoa học và triết học, Leonardo Da Vinci còn làm nghề gì nữa?",
     "option1": "Nhà văn",
     "option2": "Triết học gia",
     "option3": "Kỹ sư",
@@ -9,7 +9,7 @@
     "points": 10
   },
   {
-    "question": "2. Trong tiểu thuyết Giết con chim nhại, nhân vật chính Atticus Finch làm nghề gì? ",
+    "question": "Trong tiểu thuyết Giết con chim nhại, nhân vật chính Atticus Finch làm nghề gì? ",
     "option1": "Bác sĩ",
     "option2": "Giáo viên",
     "option3": "Luật sư",
@@ -18,16 +18,16 @@
     "points": 10
   },
   {
-    "question": "3. Khi nghe những từ khoá sau đây, bạn nghĩ đến nghề gì: thị trường, chiến lược, quảng cáo, nội dung, chiến dịch? ",
-    "option1": "Bác sĩ",
-    "option2": "Giáo viên",
-    "option3": "Luật sư",
-    "option4": "Phiên dịch viên",
-    "answer": "Cả hai đáp án",
+    "question": "Khi nghe những từ khoá sau đây, bạn nghĩ đến nghề gì: thị trường, chiến lược, quảng cáo, nội dung, chiến dịch? ",
+    "option1": "Nhân viên Marketing",
+    "option2": "Nhà phân tích đầu tư",
+    "option3": "Lập trình viên",
+    "option4": "Nhân viên Sales (nhân viên kinh doanh)",
+    "answer": "Nhân viên Marketing",
     "points": 10
   },
   {
-    "question": "4. Khi nghe đến yêu cầu công việc bao gồm: có kỹ năng làm việc với con số, đòi hỏi độ chính xác cao, kỹ năng phân tích, đánh giá và giải quyết các vấn đề tài chính, bạn nghĩ đến ngành nghề gì trong các lựa chọn dưới đây?",
+    "question": "Khi nghe đến yêu cầu công việc bao gồm: có kỹ năng làm việc với con số, đòi hỏi độ chính xác cao, kỹ năng phân tích, đánh giá và giải quyết các vấn đề tài chính, bạn nghĩ đến ngành nghề gì trong các lựa chọn dưới đây?",
     "option1": "Sales",
     "option2": "Sư phạm Toán",
     "option3": "Công nghệ thông tin",
@@ -36,7 +36,7 @@
     "points": 10
   },
   {
-    "question": "5. Khi nghe đến Adobe Photoshop, Autocad và Canva, bạn nghĩ đến ngành nào? ",
+    "question": "Khi nghe đến Adobe Photoshop, Autocad và Canva, bạn nghĩ đến ngành nào? ",
     "option1": "Sư phạm",
     "option2": "Thiết kế đồ hoạ",
     "option3": "Sales",
@@ -45,7 +45,7 @@
     "points": 10
   },
   {
-    "question": "6.Hai câu thơ sau nói về nghề nào? Muốn no thì phải chăm làm Một hạt thóc vàng, chín giọt mồ hôi.",
+    "question": "Hai câu thơ sau nói về nghề nào? Muốn no thì phải chăm làm Một hạt thóc vàng, chín giọt mồ hôi.",
     "option1": "Giáo viên",
     "option2": "Công nhân",
     "option3": "Nông dân",
@@ -54,16 +54,16 @@
     "points": 10
   },
   {
-    "question": "7. Michael Jordan, Roger Federer và Michael Phelps là những … nổi tiếng?",
+    "question": "Michael Jordan, Roger Federer và Michael Phelps là những … nổi tiếng?",
     "option1": "Diễn viên",
     "option2": "Người mẫu",
     "option3": "Ca sĩ",
     "option4": "Vận động viên",
-    "answer": "Cả hai đáp án",
+    "answer": "Vận động viên",
     "points": 10
   },
   {
-    "question": "8.Leonardo da Vinci, Vincent van Gogh, Pablo Picasso, Claude Monet đều là những … nổi tiếng thế giới?",
+    "question": "Leonardo da Vinci, Vincent van Gogh, Pablo Picasso, Claude Monet đều là những … nổi tiếng thế giới?",
     "option1": "Bác sĩ",
     "option2": "Nhà văn",
     "option3": "Hoạ sĩ",
@@ -72,7 +72,7 @@
     "points": 10
   },
   {
-    "question": "9. Deloitte, PwC, KPMG, EY (Big4) là những công ty … lớn nhất thế giới? ",
+    "question": "Deloitte, PwC, KPMG, EY (Big4) là những công ty … lớn nhất thế giới? ",
     "option1": "Dược phẩm",
     "option2": "May mặc",
     "option3": "Công nghệ",
@@ -81,7 +81,7 @@
     "points": 10
   },
   {
-    "question": "10. Brad Pitt, Song Hye Kyo, Châu Tấn, Kiều Minh Tuấn đều làm nghề gì? ",
+    "question": "Brad Pitt, Song Hye Kyo, Châu Tấn, Kiều Minh Tuấn đều làm nghề gì? ",
     "option1": "Ca sĩ",
     "option2": "Diễn viên",
     "option3": "Đầu bếp",
@@ -90,7 +90,7 @@
     "points": 10
   },
   { 
-    "question": "11. Chu Văn An, Phan Bội Châu, Lê Quý Đôn, Cao Bá Quát, Nguyễn Đình Chiểu là tên của những … nổi tiếng của Việt Nam?",
+    "question": "Chu Văn An, Phan Bội Châu, Lê Quý Đôn, Cao Bá Quát, Nguyễn Đình Chiểu là tên của những … nổi tiếng của Việt Nam?",
     "option1": "Nhà giáo",
     "option2": "Bác sĩ",
     "option3": "Nhạc sĩ",
@@ -99,7 +99,7 @@
     "points": 10
   },
   { 
-    "question": "12. Ciin, Hoa Xù, Chao, Quan Không Gờ, Sùng A Tủa là những … nổi tiếng tại Việt Nam?",
+    "question": "Ciin, Hoa Xù, Chao, Quan Không Gờ, Sùng A Tủa là những … nổi tiếng tại Việt Nam?",
     "option1": "Youtuber",
     "option2": "Tiktoker",
     "option3": "DJ",
@@ -108,7 +108,7 @@
     "points": 10
   },
   { 
-    "question": "13. Kewtiie, Justatee, Hoàng Touliver, Rhymastic là những … nổi tiếng?",
+    "question": "Kewtiie, Justatee, Hoàng Touliver, Rhymastic là những … nổi tiếng?",
     "option1": "Diễn viên",
     "option2": "Người mẫu",
     "option3": "Nhà sản xuất âm nhạc",
@@ -117,7 +117,7 @@
     "points": 10
   },
   { 
-    "question": "14. Martin Garrix, Alan Walker, David Guetta là những … nổi tiếng thế giới?",
+    "question": "Martin Garrix, Alan Walker, David Guetta là những … nổi tiếng thế giới?",
     "option1": "Người mẫu",
     "option2": "Ca sĩ",
     "option3": "DJ",
@@ -126,7 +126,7 @@
     "points": 10
   },
   { 
-    "question": "15. Nếu bạn đã xem chương trình 2 Ngày 1 Đêm, đố bạn nghề nghiệp của chị Thắm gọi là gì?",
+    "question": "Nếu bạn đã xem chương trình 2 Ngày 1 Đêm, đố bạn nghề nghiệp của chị Thắm gọi là gì?",
     "option1": "Hướng dẫn viên du lịch",
     "option2": "MC",
     "option3": "Người mẫu",
@@ -135,7 +135,7 @@
     "points": 10
   },
   { 
-    "question": "16. Các cuộc thi sau: Vietnam Supermodel, The New Mentor, Vietnam Next Top Model dành cho thí sinh thuộc lĩnh vực nào?",
+    "question": "Các cuộc thi sau: Vietnam Supermodel, The New Mentor, Vietnam Next Top Model dành cho thí sinh thuộc lĩnh vực nào?",
     "option1": "Biên kịch",
     "option2": "Đạo diễn",
     "option3": "Người mẫu",
@@ -144,7 +144,7 @@
     "points": 10
   },
   { 
-    "question": "17. Lại Văn Sâm, Trấn Thành, Trường Giang, Đại Nghĩa, Thành Trung là tên của những … nổi tiếng tại Việt Nam?",
+    "question": "Lại Văn Sâm, Trấn Thành, Trường Giang, Đại Nghĩa, Thành Trung là tên của những … nổi tiếng tại Việt Nam?",
     "option1": "MC",
     "option2": "Ca sĩ",
     "option3": "Diễn viên",
@@ -153,7 +153,7 @@
     "points": 10
   },
   { 
-    "question": "18. Nguyễn Công Trí, Đỗ Mạnh Cường, Trương Thanh Hải, Lê Thanh Hoà là những … hàng đầu Việt Nam?",
+    "question": "Nguyễn Công Trí, Đỗ Mạnh Cường, Trương Thanh Hải, Lê Thanh Hoà là những … hàng đầu Việt Nam?",
     "option1": "Nhạc sĩ",
     "option2": "MC",
     "option3": "Nhà thiết kế thời trang",
@@ -162,7 +162,7 @@
     "points": 10
   },
   { 
-    "question": "19. Big Data Developer, Game Developer, Web Developer, Data Scientist, Full-stack Developer là những hướng đi của nghề nào?",
+    "question": "Big Data Developer, Game Developer, Web Developer, Data Scientist, Full-stack Developer là những hướng đi của nghề nào?",
     "option1": "Lập trình viên",
     "option2": "Kế toán viên",
     "option3": "Hướng dẫn viên du lịch",
@@ -171,7 +171,7 @@
     "points": 10
   },
   { 
-    "question": "20. Nghề này yêu cầu một giọng nói đặc biệt, khả năng sử dụng ngôn ngữ và cách truyền đạt tốt, niềm đam mê với báo chí, với công việc biên tập, tìm kiếm, khai thác và tổng hợp thông tin. Nghề này là gì?",
+    "question": "Nghề này yêu cầu một giọng nói đặc biệt, khả năng sử dụng ngôn ngữ và cách truyền đạt tốt, niềm đam mê với báo chí, với công việc biên tập, tìm kiếm, khai thác và tổng hợp thông tin. Nghề này là gì?",
     "option1": "Giáo viên",
     "option2": "Luật sư",
     "option3": "Chuyên viên trang điểm",
@@ -180,7 +180,7 @@
     "points": 10
   },
   { 
-    "question": "21. Nhân viên hoạch định sản xuất, Quản trị nguyên vật liệu, Chuyên viên tư vấn và phân tích chuỗi cung ứng là những cơ hội nghề nghiệp của ngành học nào?",
+    "question": "Nhân viên hoạch định sản xuất, Quản trị nguyên vật liệu, Chuyên viên tư vấn và phân tích chuỗi cung ứng là những cơ hội nghề nghiệp của ngành học nào?",
     "option1": "Y khoa",
     "option2": "Sư phạm",
     "option3": "Luật",
@@ -189,7 +189,7 @@
     "points": 10
   },
   { 
-    "question": "22. Nghề nào sau đây thường làm việc với các con số và dữ liệu lớn?",
+    "question": "Nghề nào sau đây thường làm việc với các con số và dữ liệu lớn?",
     "option1": "Thiết kế đồ họa",
     "option2": "Phân tích dữ liệu",
     "option3": "Diễn viên",
@@ -198,7 +198,7 @@
     "points": 10
   },
   { 
-    "question": "23. Trong các công việc sau đây, công việc nào thường được xem là phù hợp với người hướng nội?",
+    "question": "Trong các công việc sau đây, công việc nào thường được xem là phù hợp với người hướng nội?",
     "option1": "Kế toán viên",
     "option2": "Phát thanh viên",
     "option3": "Hướng dẫn viên du lịch",
@@ -207,7 +207,7 @@
     "points": 10
   },
   { 
-    "question": "24. Trong các công việc sau đây, công việc nào có thể phù hợp với người hướng ngoại?",
+    "question": "Trong các công việc sau đây, công việc nào có thể phù hợp với người hướng ngoại?",
     "option1": "Lập trình viên",
     "option2": "Bán hàng & Marketing",
     "option3": "Nhà văn",
@@ -216,7 +216,7 @@
     "points": 10
   },
   { 
-    "question": "25. Công việc nào đòi hỏi tính sáng tạo cao?",
+    "question": "Công việc nào đòi hỏi tính sáng tạo cao?",
     "option1": "Chuyên viên thiết kế",
     "option2": "Kế toán viên",
     "option3": "Lập trình viên",
@@ -225,7 +225,7 @@
     "points": 10
   },
   { 
-    "question": "26. Công việc nào có đặc điểm được vi vu khắp nơi trên thế giới?",
+    "question": "Công việc nào có đặc điểm được vi vu khắp nơi trên thế giới?",
     "option1": "Kế toán",
     "option2": "Lập trình viên",
     "option3": "Nhà văn",
@@ -234,7 +234,7 @@
     "points": 10
   },
   { 
-    "question": "27. Giàu lòng trắc ẩn và nhân ái có thể là ưu điểm nếu bạn theo nghề nghiệp nào sau đây?",
+    "question": "Giàu lòng trắc ẩn và nhân ái có thể là ưu điểm nếu bạn theo nghề nghiệp nào sau đây?",
     "option1": "Kỹ sư",
     "option2": "Tiếp viên hàng không",
     "option3": "Lập trình viên",
@@ -243,7 +243,7 @@
     "points": 10
   },
   { 
-    "question": "28. Trang web nào sau đây cung cấp những khoá học chất lượng từ các trường đại học uy tín, giúp bạn bổ sung kiến thức chuyên môn cần thiết cho công việc?",
+    "question": "Trang web nào sau đây cung cấp những khoá học chất lượng từ các trường đại học uy tín, giúp bạn bổ sung kiến thức chuyên môn cần thiết cho công việc?",
     "option1": "Instagram",
     "option2": "Locket",
     "option3": "Tiktok",
@@ -252,7 +252,7 @@
     "points": 10
   },
   { 
-    "question": "29. Đâu là ứng dụng học ngoại ngữ nổi tiếng nhất thế giới?",
+    "question": "Đâu là ứng dụng học ngoại ngữ nổi tiếng nhất thế giới?",
     "option1": "Pinterest",
     "option2": "Xiaohongshu",
     "option3": "Duolingo",
@@ -261,7 +261,7 @@
     "points": 10
   },
   { 
-    "question": "30. Đâu là ứng dụng bạn nên sử dụng nhiều hơn để hiểu về thị trường việc làm?",
+    "question": "Đâu là ứng dụng bạn nên sử dụng nhiều hơn để hiểu về thị trường việc làm?",
     "option1": "TopCV",
     "option2": "Tiktok",
     "option3": "Clash of Clans",
@@ -270,7 +270,7 @@
     "points": 10
   },
   { 
-    "question": "31. Thói quen nào sau đây sẽ giúp bạn trở nên thông minh hơn mỗi ngày?",
+    "question": "Thói quen nào sau đây sẽ giúp bạn trở nên thông minh hơn mỗi ngày?",
     "option1": "Lướt Tiktok",
     "option2": "Comment dạo",
     "option3": "Coi livestream bán hàng",
@@ -279,7 +279,7 @@
     "points": 10
   },
   { 
-    "question": "32. Thói quen nào sẽ giúp bạn luôn có tinh thần và năng lượng để học tập thật tốt, chuẩn bị cho công việc tương lai?",
+    "question": "Thói quen nào sẽ giúp bạn luôn có tinh thần và năng lượng để học tập thật tốt, chuẩn bị cho công việc tương lai?",
     "option1": "Thức thật khuya",
     "option2": "Lướt điện thoại nhiều giờ đồng hồ",
     "option3": "Ngủ đủ giấc",
@@ -288,7 +288,7 @@
     "points": 10
   },
   { 
-    "question": "33. Sinh viên có thể làm gì để tăng thêm kinh nghiệm việc làm ngay từ khi trên giảng đường?",
+    "question": "Sinh viên có thể làm gì để tăng thêm kinh nghiệm việc làm ngay từ khi trên giảng đường?",
     "option1": "Tích cực tìm việc làm part-time liên quan đến ngành học",
     "option2": "Cày phim",
     "option3": "Nhắn tin với bạn bè",
@@ -297,7 +297,7 @@
     "points": 10
   },
   { 
-    "question": "34. Đâu là thời điểm tốt nhất để bắt đầu chuẩn bị cho sự nghiệp tương lai?",
+    "question": "Đâu là thời điểm tốt nhất để bắt đầu chuẩn bị cho sự nghiệp tương lai?",
     "option1": "Sau khi ra trường",
     "option2": "Không cần chuẩn bị",
     "option3": "Ngay bây giờ",
@@ -306,7 +306,7 @@
     "points": 10
   },
   { 
-    "question": "35. Bạn có thể làm gì để hiểu rõ hơn về điểm mạnh và điểm yếu của bản thân?",
+    "question": "Bạn có thể làm gì để hiểu rõ hơn về điểm mạnh và điểm yếu của bản thân?",
     "option1": "Dấn thân vào những trải nghiệm khác nhau và nghiêm túc nhìn nhận bản thân trong mỗi trải nghiệm đã qua",
     "option2": "Từ chối lắng nghe những lời góp ý mang tính xây dựng bởi bạn tin rằng bản thân mình không thể có điểm yếu",
     "option3": "So sánh bản thân với người khác để cảm thấy tự cao hoặc tự ti",
@@ -315,7 +315,7 @@
     "points": 10
   },
   { 
-    "question": "36. Học tốt ngoại ngữ sẽ có tác động như thế nào đến công việc sau này của bạn?",
+    "question": "Học tốt ngoại ngữ sẽ có tác động như thế nào đến công việc sau này của bạn?",
     "option1": "Không có ích gì cả vì ai cũng có thể dùng các ứng dụng, website dịch thuật.",
     "option2": "Không giúp bạn nổi bật vì bây giờ ai cũng biết ngoại ngữ.",
     "option3": "Không giúp ích cho việc mở rộng mối quan hệ vì bạn không cần mở rộng quan hệ với người đến từ các nước khác.",
@@ -324,7 +324,7 @@
     "points": 10
   },
   { 
-    "question": "37. Bao giờ thì nên bắt đầu tìm hiểu về cơ hội thực tập?",
+    "question": "Bao giờ thì nên bắt đầu tìm hiểu về cơ hội thực tập?",
     "option1": "Không cần tìm hiểu vì thực tập giúp bạn có thêm kinh nghiệm trong CV và trải nghiệm để trả lời câu hỏi trong buổi phỏng vấn xin việc",
     "option2": "Không cần tích cực tìm kiếm vì cơ hội sẽ tự tìm đến",
     "option3": "Cần tìm hiểu ngay bây giờ và tích cực nộp đơn khi thấy cơ hội phù hợp",
@@ -333,7 +333,7 @@
     "points": 10
   },
   { 
-    "question": "38. Cách xây dựng mối quan hệ với các cô chú, anh chị đi trước trong ngành?",
+    "question": "Cách xây dựng mối quan hệ với các cô chú, anh chị đi trước trong ngành?",
     "option1": "Tích cực tham gia các forum và sự kiện networking",
     "option2": "Ở nhà chơi điện thoại",
     "option3": "Chơi game",
@@ -342,7 +342,7 @@
     "points": 10
   },
   { 
-    "question": "39. Là một sinh viên, bạn nên đầu tư thời gian và tiền bạc nhiều nhất vào việc gì trong những lựa chọn dưới đây?",
+    "question": "Là một sinh viên, bạn nên đầu tư thời gian và tiền bạc nhiều nhất vào việc gì trong những lựa chọn dưới đây?",
     "option1": "Mua skin, nạp game",
     "option2": "Mua sắm và lựa chọn quần áo, mỹ phẩm",
     "option3": "Lướt sóng (đầu cơ chứng khoán)",
@@ -351,7 +351,7 @@
     "points": 10
   },
   { 
-    "question": "40. Suy nghĩ nào sẽ khiến thời sinh viên của bạn trôi qua lãng phí?",
+    "question": "Suy nghĩ nào sẽ khiến thời sinh viên của bạn trôi qua lãng phí?",
     "option1": "4 năm đại học là để rèn luyện và chuẩn bị bản thân sẵn sàng trên thị trường lao động.",
     "option2": "Chăm chỉ học hành, có điểm GPA cao có thể giúp mình ghi điểm trên CV khi chưa có kinh nghiệm.",
     "option3": "Tận dụng các cuộc thi, các câu lạc bộ dành cho sinh viên để làm quen được nhiều bạn bè tốt, học hỏi được nhiều hơn.",
