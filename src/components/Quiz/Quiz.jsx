@@ -1,4 +1,4 @@
-import React, { useRef, useState, useEffect } from "react";
+import React, { useRef, useState, useEffect, useCallback } from "react";
 import "../CSS/Quiz.css";
 import questionsData from "../../questions/questionsData.json";
 import Results from "./Results";
@@ -16,6 +16,25 @@ function Quiz() {
 
     const optionRefs = useRef([]);
 
+    const handleComplete = useCallback(async () => {
+        setQuizCompleted(true);
+
+        try {
+            const storedUserInfo =
+                JSON.parse(localStorage.getItem("userInfo")) || {};
+            const formData = { ...storedUserInfo, score: score };
+
+            // Gửi dữ liệu đến backend
+            await axios.post(
+                "https://c079h2fp-3000.asse.devtunnels.ms/submit",
+                formData
+            );
+            console.log("Data successfully saved to Google Sheets");
+        } catch (error) {
+            console.error("Error saving data:", error);
+        }
+    }, [score]);
+
     useEffect(() => {
         if (timeLeft > 0 && !quizCompleted) {
             const timer = setTimeout(() => setTimeLeft(timeLeft - 1), 1000);
@@ -23,7 +42,7 @@ function Quiz() {
         } else if (timeLeft === 0 && !quizCompleted) {
             handleComplete(); // Chỉ gọi khi quiz chưa hoàn thành
         }
-    }, [timeLeft, quizCompleted]);
+    }, [timeLeft, quizCompleted, handleComplete]);
 
     // Chuyển giây thành định dạng phút:giây
     const formatTime = (time) => {
@@ -46,25 +65,6 @@ function Quiz() {
             if (index + 1 === questionsData.length - 1) {
                 setIsFinalQuestion(true);
             }
-        }
-    };
-
-    const handleComplete = async () => {
-        setQuizCompleted(true);
-
-        try {
-            const storedUserInfo =
-                JSON.parse(localStorage.getItem("userInfo")) || {};
-            const formData = { ...storedUserInfo, score: score };
-
-            // Gửi dữ liệu đến backend
-            await axios.post(
-                "https://c079h2fp-3000.asse.devtunnels.ms/submit",
-                formData
-            );
-            console.log("Data successfully saved to Google Sheets");
-        } catch (error) {
-            console.error("Error saving data:", error);
         }
     };
 
