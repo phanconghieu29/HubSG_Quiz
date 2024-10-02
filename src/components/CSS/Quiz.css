@@ -24,7 +24,7 @@
   .container ul li {
     display: flex;
     align-items: center;
-    height: 70px;
+    min-height: 70px;
     padding-left: 15px;
     border: 1px solid black;
     border-radius: 10px;
